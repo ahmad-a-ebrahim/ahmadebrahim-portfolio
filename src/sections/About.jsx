@@ -23,7 +23,7 @@ const About = () => {
             <img
               src={"/assets/profile.jpg"}
               alt="profile image"
-              className="about-me_image w-3/4 max-w-[276px] h-fit object-contain"
+              className="about-me_image w-[200px] max-w-[276px] h-fit object-contain"
             />
             <div>
               <p className="grid-headtext">Hi, I'm Ahmad</p>
