@@ -43,11 +43,11 @@ const Contact = () => {
 
   return (
     <section id="contact" className="c-space mt-20">
-      <div className="relative min-h-screen flex items-center justify-center flex-col">
+      <div className="relative flex items-center justify-center flex-col">
         <img
           src="/assets/terminal.png"
           alt="terminal background"
-          className="absolute inset-0 min-h-screen hidden xl:block"
+          className="absolute inset-0 h-full w-full hidden lg:block"
         />
 
         <div className="contact-container">

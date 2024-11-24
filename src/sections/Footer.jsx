@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <section className="c-space p-7 border-t border-black-300 flex justify-center items-center mt-20 lg:mt-40">
+    <section className="c-space py-14 border-t border-black-300 flex justify-center items-center mt-20">
       <div className="flex gap-3">
         <a href="https://github.com/ahmad-ebrahim-1">
           <div className="social-icon">
