@@ -78,7 +78,7 @@ body {
   }
 
   .about-me_image {
-    @apply rounded-full self-center grayscale-[0.75] group-hover:grayscale-0 transition-all duration-100 ease-in-out;
+    @apply rounded-full self-center grayscale-[0.75] group-hover:grayscale-0 transition-all duration-300 ease-in-out;
   }
 
   /* projects section  */
