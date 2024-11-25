@@ -10,8 +10,8 @@ const Rocket = (props) => {
   useGSAP(() => {
     if (rocketRef.current && rocketRef.current.position)
       gsap.from(rocketRef.current.position, {
-        x: rocketRef.current.position.x - 20,
-        z: rocketRef.current.position.z + 20,
+        x: rocketRef.current.position.x - 10,
+        z: rocketRef.current.position.z + 10,
         duration: 2,
       });
   });
