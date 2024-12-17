@@ -8,7 +8,7 @@ import { calculateSizes } from "../constants";
 import Target from "../components/Target";
 import ReactLogo from "../components/ReactLogo";
 import Cube from "../components/Cube";
-import Rocket from "../components/Rocket";
+import Rings from "../components/Rings";
 import HeroCamera from "../components/HeroCamera";
 import Button from "../components/Button";
 
@@ -44,7 +44,7 @@ const Hero = () => {
               <Target position={sizes.targetPosition} />
               <ReactLogo position={sizes.reactLogoPosition} />
               <Cube position={sizes.cubePosition} />
-              <Rocket isMobile={isMobile} position={sizes.rocketPosition} />
+              <Rings position={sizes.ringsPosition} />
             </group>
 
             <ambientLight intensity={1} />

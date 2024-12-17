@@ -28,9 +28,8 @@ const About = () => {
             <div>
               <p className="grid-headtext">Hi, I'm Ahmad</p>
               <p className="grid-subtext">
-                With 1 year of work experience with frontend, Currently studying
-                software engineering at Tishreen University and learning backend
-                to become a full stack engineer.
+                With 1 year of work experience, Currently studying software
+                engineering at Tishreen University.
               </p>
             </div>
           </div>
