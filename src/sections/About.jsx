@@ -28,7 +28,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">Hi, I'm Ahmad</p>
               <p className="grid-subtext">
-                With 1 year of work experience, Currently studying software
+                With 3 months of work experience, Currently studying software
                 engineering at Tishreen University.
               </p>
             </div>
@@ -67,7 +67,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">I work remotely</p>
               <p className="grid-subtext">
-                I'm currently based in Syria, with remote work available.
+                I'm currently based in Latakia - Syria, with remote work available.
               </p>
               <a href="#contact">
                 <Button
