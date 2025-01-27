@@ -5,6 +5,7 @@ import { useCallback, useRef } from "react";
 
 const Rings = ({ position }) => {
   const refList = useRef([]);
+
   const getRef = useCallback((mesh) => {
     if (mesh && !refList.current.includes(mesh)) {
       refList.current.push(mesh);
