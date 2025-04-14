@@ -2,7 +2,7 @@ const Footer = () => {
   return (
     <section className="c-space py-14 border-t border-black-300 flex justify-center items-center mt-20">
       <div className="flex gap-3">
-        <a href="https://github.com/ahmad-ebrahim-1">
+        <a href="https://github.com/ahmad-a-ebrahim/">
           <div className="social-icon">
             <img
               src="/assets/github.svg"
@@ -11,7 +11,7 @@ const Footer = () => {
             />
           </div>
         </a>
-        <a href="https://www.linkedin.com/in/ahmadibrahem">
+        <a href="https://www.linkedin.com/in/ahmadibrahem/">
           <div className="social-icon">
             <img
               src="/assets/linkedin.svg"
@@ -20,7 +20,7 @@ const Footer = () => {
             />
           </div>
         </a>
-        <a href="https://www.facebook.com/ahmadibraheem91?mibextid=ZbWKwL">
+        <a href="https://www.facebook.com/ahmadibraheem91/">
           <div className="social-icon">
             <img
               src="/assets/facebook.svg"
@@ -29,7 +29,7 @@ const Footer = () => {
             />
           </div>
         </a>
-        <a href="https://www.instagram.com/ahmad_ibraheem_?igsh=M2E5ZHVjMHRhbnJq">
+        <a href="https://www.instagram.com/ahmad.a.ebrahim/">
           <div className="social-icon">
             <img
               src="/assets/instagram.svg"

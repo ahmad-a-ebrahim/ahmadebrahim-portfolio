@@ -28,8 +28,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">Hi, I'm Ahmad</p>
               <p className="grid-subtext">
-                With 3 months of work experience, Currently studying software
-                engineering at Tishreen University.
+                Currently studying software engineering at Latakia University.
               </p>
             </div>
           </div>
